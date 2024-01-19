@@ -1,6 +1,6 @@
 {
   "name": "cipher-guard",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "CipherGuard: A robust npm package for effortless text encryption and decryption, ensuring the security of your sensitive data with ease.",
   "main": "dist/index.js",
   "scripts": {
