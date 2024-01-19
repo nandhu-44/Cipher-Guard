@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nandhu-44/CipherGuard.git"
+    "url": "git+https://github.com/nandhu-44/Cipher-Guard.git"
   },
   "keywords": [
     "cipherguard",
@@ -38,9 +38,9 @@
   "author": "n44",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nandhu-44/CipherGuard/issues"
+    "url": "https://github.com/nandhu-44/Cipher-Guard/issues"
   },
-  "homepage": "https://github.com/nandhu-44/CipherGuard#readme",
+  "homepage": "https://github.com/nandhu-44/Cipher-Guard#readme",
   "devDependencies": {
     "nodemon": "^3.0.3",
     "ts-node": "^10.9.2",
